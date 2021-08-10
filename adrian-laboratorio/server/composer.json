@@ -1,0 +1,16 @@
+{
+  "name": "notepad/server",
+  "description": "api rest notepad",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "kg"
+    }
+  ],
+  "require": {
+    "php": "8.0.3",
+    "dompdf/dompdf": "^1.0",
+    "phpmailer/phpmailer": "^6.4"
+  }
+}
